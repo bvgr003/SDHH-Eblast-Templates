@@ -1,0 +1,31 @@
+ body {
+     text-align: center;
+     background-color: #133b81;
+ }
+
+ header {
+     background-image: url(https://mcusercontent.com/854340fdfb775a5f6868e26cd/images/806431db-b359-2be0-c038-203a7fe5aa27.jpg);
+     text-align: center;
+     height: 600px;
+     width: 100%;
+     object-fit: cover;
+     background-repeat: no-repeat;
+     background-position: center top;
+ }
+
+ .buttons,
+     {
+     display: inline-block;
+ }
+
+ button {
+     width: 200px;
+     height: 100px;
+     border: 2px solid white;
+     border-radius: 10px;
+     font-size: 25px;
+ }
+
+ main {
+     text-align: center;
+ }
